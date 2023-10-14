@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ATM_interface {
+module Number_game {
 }
